@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9ae7b542fd7b7955",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-03-02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65599e86d5d51436",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-03-09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32fa1d006db025a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-03-09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-02-23.md",
+                "file": "2023-03-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-02-23.md",
+                "file": "2023-03-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-02-23.md"
+                "file": "2023-03-09.md"
               }
             }
           }
@@ -145,9 +182,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fcb5f83cd29c4ca9",
+  "active": "32fa1d006db025a7",
   "lastOpenFiles": [
-    "2023-02-16.md",
-    "2023-02-23.md"
+    "Mio.md",
+    "2023-03-09.md",
+    "Hyrule Castle.md",
+    "Twilight Princess Link.md",
+    "The Fairy Queen.md",
+    "Ocarina of Time.md",
+    "Time Travel.md",
+    "Oracle of Ages.md",
+    "The Master.md",
+    "The Tardis.md",
+    "2023-03-02.md",
+    "Untitled.md",
+    "2023-02-23.md",
+    "2023-02-16.md"
   ]
 }
