@@ -1,0 +1,3 @@
+The **Wandering Emporium** was a traveling bazaar of merchants, creatives, and miscreants that wandered the infernal realm of [[Avernus]] in [[The Nine Hells]]. The master of this marketplace is [[Mahadi the Rakshasa]], a servant of the [devilish](https://forgottenrealms.fandom.com/wiki/Devil "Devil") god [[Asmodeus]].
+
+The emporium was a welcoming place in the otherwise perilous and horrifying plane of Avernus. It was considered neutral ground that offered respite from the hell's many conflicts, most predominantly The Blood War.

@@ -1,0 +1,5 @@
+When Meera was young, her kindhearted and upstanding mothers served as city clerks. But when they began investigating financial irregularities, the unscrupulous mayor framed them for embezzlement to cover his own corruption. The only evidence of the Raheers' innocence was a packet of letters between the mayor and his conspirators. The letters were locked in the mayor's office.
+
+Luckily for the Raheers, a crew of Golden Vault operatives infiltrated city hall, retrieved the letters, and revealed the mayor's crimes. The Raheers kept fighting against government corruption, and Meera has followed in her parents' footsteps, continuing their anti-corruption work by becoming a city's clerk and a member of [[The Golden Vault]].
+
+Meera lives and breathes city protocols, procedures, and statutes. She also understands that sometimes doing the right thing means operating outside the law.

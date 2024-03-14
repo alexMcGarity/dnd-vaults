@@ -1,0 +1,1 @@
+known commonly as Var the Golden, it is one of the three Shining Lands surrounding the Golden Water in Southeast [[Faerûn]]

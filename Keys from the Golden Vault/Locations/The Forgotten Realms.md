@@ -1,0 +1,1 @@
+The setting of the campaign, The Forgotten Realms is vast 

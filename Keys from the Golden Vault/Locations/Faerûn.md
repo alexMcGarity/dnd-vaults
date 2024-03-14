@@ -1,0 +1,1 @@
+A major continent of the planet Toril. It is composed of many nations and city states. Adventuring is a popular way of life throughout the realms, due to the volume of beasts, and the mercenary lifestyle allowing one to essentially choose what type of work they want to do and for whom

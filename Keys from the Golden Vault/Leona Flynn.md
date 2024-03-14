@@ -1,0 +1,1 @@
+[[Woe]]'s contact/informant in [[Baldur's Gate]]

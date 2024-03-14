@@ -1,0 +1,1 @@
+Callon's wife, a kind-hearted and supportive partner in the family's benevolent endeavors, exemplifying the grace of high elven nobility. She's also a high-level cleric with an ambitious goal of achieving godhood.

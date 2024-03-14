@@ -1,0 +1,1 @@
+* A private Gala celebrating the a new exhibition(the Murkmire Stone) will occur soon

@@ -1,0 +1,2 @@
+Extremely talented inventor and artificer. While originally focusing her talents on civilian applications A self described lack of motivation brought her to seek new ventures among the dwarves. She was solely responsible for fixing [[Rob Bot]], restoring it to working condition. This brought on the attention of [[The Golden Vault]] who felt her talents would be extremely useful for their organization. She was soon contacted via mail and asked to travel to the town of [[Varkenbluff]] on The Sword Coast
+

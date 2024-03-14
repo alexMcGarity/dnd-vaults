@@ -1,0 +1,9 @@
+In the timeless realm of [[The Feywild]], where the boundaries between the material plane and the magical world blur and shift, Sophie Caelum was born. She came into the world with a natural affinity for the elemental forces and the spirits of the forest, a gift bestowed upon her by her mysterious and ancient Eladrin ancestors.
+
+As a child, Sophie spent her early years in the Feywild, exploring the ever-shifting landscapes and forming a deep connection with the natural world. The Feywild was her playground, and the spirits of the land her playmates. She would often be found conversing with the trees, whispering to the wind, and dancing with the sprites that inhabited her enchanted homeland.
+
+However, her idyllic childhood took a fateful turn when a powerful rift opened between the Feywild and [[The Nine Hells]]. As creatures from the nine hells raided the Feywild, skirmishes broke out in the realm.
+
+Sophie was sadly too young and wasn't able to run fast enough before a devil captured her. The devil brought her to the nine hells first layer avernus where she was sold as a slave to the highest bidder. Fortunately Sophie was bought by [[Mahadi the Rakshasa]]. Instead of the typical master-slave relationship he cared for her like a father. When she reached the age of around 125 Mahadi gave her free range to explore as long as it wasn't in the nine hells. So he hired a high level demon to transport her into the material realm.
+
+She traveled around for a few months finally in an area where she could embrace her druid powers. Where she now finds herself in [[Varkenbluff]], recruited by [[The Golden Vault]] in the hopes of eventually becoming an invaluable double agent ultimately loyal to [[The Forgotten Realms]]
