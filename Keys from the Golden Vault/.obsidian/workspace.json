@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "27726b7957e48e17",
+        "id": "5dcc6633244828c0",
         "type": "tabs",
         "children": [
           {
-            "id": "23c0d55114db518c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Reach for the Stars Session 10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b21234e41e7a4de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Reach for the Stars Session 10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "032c9a000910034b",
+            "id": "ebb91943b0e1d737",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,113 +20,19 @@
             }
           },
           {
-            "id": "404986e342bae850",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
-          },
-          {
-            "id": "0ff6b004248dc366",
+            "id": "d3d2fcd730524609",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Reach for the Stars Session 8.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a91e32683a202107",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leona Flynn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c5da98b675a803e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Loveday Manor Session 6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6f4561bfc142821",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/House Loveday/Captain Elowen Stormblade.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "904e922d1c8102da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/House Loveday/Lady Anastasia Loveday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73f77cbd38c6ac23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/House Loveday/Lord Lucius Loveday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "deca41e99e6a1ac6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/House Loveday/Percival Hearthstone.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbd5415774d64cf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/House Loveday/Sir Acel Loveday.md",
+                "file": "Sessions/Prisoner 13 Session idk.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -277,34 +159,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "032c9a000910034b",
+  "active": "d3d2fcd730524609",
   "lastOpenFiles": [
-    "Sessions/Reach for the Stars Session 10.md",
+    "NPCs/Abbie's Mom.md",
     "Sessions/Prisoner 13 Session idk.md",
+    "NPCs/Waldo.md",
+    "Locations/The Sword Coast/Gauntlgrym.md",
+    "NPCs/Flaming Fist Captain Zach.md",
+    "NPCs/Gerrard Ashtown.md",
+    "Locations/The Sword Coast/Baldur's Gate/Loveday Manor.md",
+    "NPCs/Leona Flynn.md",
+    "NPCs/Marie Atkins.md",
+    "Pasted image 20240314201547.png",
+    "NPCs/House Loveday/Lord Callon Loveday.md",
+    "Sessions/Reach for the Stars Session 11.md",
+    "Untitled.md",
+    "Sessions/Reach for the Stars Session 10.md",
+    "NPCs/House Loveday/Sir Acel Loveday.md",
+    "NPCs/House Loveday/Percival Hearthstone.md",
+    "NPCs/House Loveday/Lord Lucius Loveday.md",
+    "NPCs/House Loveday/Lady Anastasia Loveday.md",
+    "NPCs/House Loveday/Captain Elowen Stormblade.md",
+    "Sessions/Loveday Manor Session 6.md",
+    "Sessions/Reach for the Stars Session 8.md",
     "Sessions/Stygian Gambit Session 4.md",
     "Sessions/Baldur's Gate Transit Session 3.md",
     "Sessions/The Murkmire Malevolence Session 2.md",
     "Sessions/Introduction Session 1.md",
     "Player Characters/Quill Field.md",
     "Player Characters/Sir Leon Loveday.md",
-    "Player Characters/Rob Bot.md",
-    "Player Characters/Woe.md",
-    "Reach for the Stars Session 11.md",
-    "Sessions/Reach for the Stars Session 9.md",
-    "Sessions/Reach for the Stars Session 8.md",
-    "NPCs/House Loveday/Percival Hearthstone.md",
-    "Sessions/Ohio Session 7.md",
-    "Loveday Manor.md",
-    "Leona Flynn.md",
-    "Flaming Fist Captain Zach.md",
-    "Gerrard Ashtown.md",
-    "Sessions/Loveday Manor Session 6.md",
-    "NPCs/House Loveday/Lord Callon Loveday.md",
-    "NPCs/Dr. Cassee Dannell.md",
-    "Plot Devices/The Murkmire Stone.md",
-    "Plot Devices/Anti-Wish Weapon(AWW).md",
-    "Plot Devices/House Loveday.md",
-    "Plot Devices/Quill's Magic Earring.md",
     "Pasted image 20231130211935.png",
     "NPCs/The Golden Vault",
     "Plot Devices",
